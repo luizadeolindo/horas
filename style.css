@@ -34,3 +34,15 @@ footer {
     height: 50%;
     
 }
+
+@media (max-width: 480px) {
+    section {
+        width: 250px;
+        padding: 10px
+    }
+    #imagem {
+        width: 25%;
+        height: 25%;
+    }
+}
+
